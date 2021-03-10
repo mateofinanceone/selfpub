@@ -1,5 +1,5 @@
-# wabot-aq
-Simple WhatsApp Bot
+# SELFPUB
+Simple WhatsApp Bot BY NURUTOMO 
 
 ### FOR TERMUX USER
 ```bash
