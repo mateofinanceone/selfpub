@@ -1,7 +1,7 @@
 {
   "name": "cotton-candys",
   "version": "1.4.0",
-  "description": "Customizable WhatsApp Bot",
+  "description": "Cotton Candys Bot",
   "depecrated": false,
   "main": "index.js",
   "directories": {
