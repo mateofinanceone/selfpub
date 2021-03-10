@@ -1,4 +1,4 @@
-global.owner = ['6281515860089'] // Put your number here
+global.owner = ['6288212768618'] // xrubyyy
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -8,7 +8,7 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'd90a9e986e18778b'
+  'https://api.xteam.xyz': '534251f263ab7252'
 }
 
 
@@ -23,3 +23,4 @@ fs.watchFile(file, () => {
   delete require.cache[file]
   require(file)
 })
+
