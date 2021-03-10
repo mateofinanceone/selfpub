@@ -10,7 +10,7 @@ Simple WhatsApp Bot BY NURUTOMO
 > pkg install imagemagick -y
 > git clone https://github.com/mateofinanceone/SELFPUB
 > cd SELFPUB
-rm sesssion.data.json
+> rm sesssion.data.json
 > npm install
 ```
 ###### Run
