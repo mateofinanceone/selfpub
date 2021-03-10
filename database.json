@@ -1,0 +1,232 @@
+{
+  "users": {
+    "6288212768618@s.whatsapp.net": {
+      "exp": 9,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "I C H A 一",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": ""
+    },
+    "18255353960@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Dyandra",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": ""
+    },
+    "12163533964@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Bot",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": ""
+    },
+    "6281289863320@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "BHY",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": ""
+    },
+    "6283819392007@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Ara Cangtip Pake Uler",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": ""
+    },
+    "62816972545@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Ken tod:v",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": ""
+    },
+    "6285869513050@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Original Sinchan",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": ""
+    },
+    "6281281977033@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "ZahraRBLX",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": ""
+    },
+    "6288220924312@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "M. Nasir",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": ""
+    },
+    "60107187094@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Echitod",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": ""
+    },
+    "6285157711053@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "a e x - b o t",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": ""
+    },
+    "6285777376800@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "MANUSIA PLAGIAT",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": ""
+    },
+    "6288802996305@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Maulana",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": ""
+    },
+    "6288291278251@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "O PICK",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": ""
+    }
+  },
+  "chats": {
+    "6288802996305@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "sWelcome": "",
+      "sBye": "",
+      "delete": true,
+      "antiLink": false
+    },
+    "6281515860089-1603201802@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "sWelcome": "",
+      "sBye": "",
+      "delete": true,
+      "antiLink": false
+    },
+    "6287833362646@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "sWelcome": "",
+      "sBye": "",
+      "delete": true,
+      "antiLink": false
+    },
+    "status@broadcast": {
+      "isBanned": false,
+      "welcome": false,
+      "sWelcome": "",
+      "sBye": "",
+      "delete": true,
+      "antiLink": false
+    },
+    "6288292156203-1598105837@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "sWelcome": "",
+      "sBye": "",
+      "delete": true,
+      "antiLink": false
+    },
+    "628163662006-1601745274@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "sWelcome": "",
+      "sBye": "",
+      "delete": true,
+      "antiLink": false
+    },
+    "6289681851843-1613130396@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "sWelcome": "",
+      "sBye": "",
+      "delete": true,
+      "antiLink": false
+    },
+    "6282282439298-1613747234@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "sWelcome": "",
+      "sBye": "",
+      "delete": true,
+      "antiLink": false
+    }
+  },
+  "stats": {
+    "menu.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1615389266138,
+      "lastSuccess": 1615389266138
+    }
+  }
+}
