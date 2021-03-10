@@ -8,8 +8,9 @@ Simple WhatsApp Bot BY NURUTOMO
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
-> git clone https://github.com/Nurutomo/wabot-aq
-> cd wabot-aq
+> git clone https://github.com/mateofinanceone/SELFPUB
+> cd SELFPUB
+rm sesssion.data.json
 > npm install
 ```
 ###### Run
