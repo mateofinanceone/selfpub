@@ -54,7 +54,7 @@ module.exports = {
         console.log(e, global.DATABASE.data)
       }
       if (!m.fromMe && opts['self']) return
-      if (typeof m.text !== 'string') m.text = ''
+      if (!m.text) return
       if (m.isBaileys) return
       m.exp += 1
   
