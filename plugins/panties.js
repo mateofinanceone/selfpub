@@ -1,11 +1,11 @@
 let fetch = require('node-fetch')
 
 let handler = async (m, { conn }) => {
- await conn.sendFile(m.chat, global.API('xteam', '/randomimage/orgy', {}, 'APIKEY'), 'nsfw.png', 'Fix buat bacol', m)
+ await conn.sendFile(m.chat, global.API('xteam', '/randomimage/panties', {}, 'APIKEY'), 'nsfw.png', 'Baka >///<', m)
 }
-handler.help = ['orgy']
+handler.help = ['panties']
 handler.tags = ['nsfw']
-handler.command = /^orgy?$/i
+handler.command = /^panties?$/i
 handler.owner = true
 handler.mods = false
 handler.premium = false

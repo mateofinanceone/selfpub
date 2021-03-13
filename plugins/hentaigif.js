@@ -1,7 +1,7 @@
 let fetch = require('node-fetch')
 
 let handler = async (m, { conn }) => {
- await conn.sendFile(m.chat, global.API('xteam', '/randomimage/hentaigif', {}, 'APIKEY'), 'nsfw.mp4', 'Baka >///<', m)
+ await conn.sendFile(m.chat, global.API('xteam', '/randomimage/hentaigif', {}, 'APIKEY'), 'nsfw.mp4', 'Fix buat bacol', m)
 }
 handler.help = ['hvid']
 handler.tags = ['nsfw']
